@@ -1,5 +1,4 @@
-RELIGIOUS CORPORA
-=================
+# Religious Corpora
 
 Small (but growing!) 
 personal collection of religious corpora,
